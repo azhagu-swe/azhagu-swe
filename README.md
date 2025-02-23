@@ -77,7 +77,7 @@ A stunning, interactive portfolio to showcase my skills, projects, and creativit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/azhagu379)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/azhagu-swe)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/azhagu-swe)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23F4B400.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23F4B400.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://azhagu-swe.github.io/portfolio/)  
 
 ---
 
