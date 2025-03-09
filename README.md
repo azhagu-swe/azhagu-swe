@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Alagappan P | **Full-Stack Java Developer**
 
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-%23F4B400?style=for-the-badge&logo=google-chrome&logoColor=white)](https://azhagu-swe.github.io)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-%23F4B400?style=for-the-badge&logo=google-chrome&logoColor=white)](https://azhagu-swe.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azhagu-swe)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-leetcode-link)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/azhagu_swe/)
 
 ## 🛠️ Tech Stack Arsenal
 
@@ -31,7 +31,7 @@
 ✅ 20% faster than Python implementation  
 ✅ Deployed in production DSP targeting 1M+ devices
 
-### 💻 **Next.js Portfolio** [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF7139?style=flat-square&logo=vercel&logoColor=white)](https://azhagu-swe.github.io)
+### 💻 **Next.js Portfolio** [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF7139?style=flat-square&logo=vercel&logoColor=white)](https://azhagu-swe.github.io/portfolio/)
 **Next.js 14 | TypeScript | MUI**  
 ⚡ 95+ Lighthouse Performance Score  
 🎯 25% increase in user engagement  
@@ -71,9 +71,31 @@
 ---
 
 ## 🌟 **Development Philosophy**
-> *"Clean code is not just efficient - it's the bridge between complex problems and elegant solutions."*
 
----
+> *"First solve the problem, then write the code."*  
+> **– John Johnson**  
+
+> *"Good code is its own best documentation."*  
+> **– Steve McConnell**  
+
+> *"The best error message is the one that never shows up."*  
+> **– Inspired by Thomas Fuchs**  
+
+> *"Precision in geohashing, elegance in interfaces, passion in execution."*  
+> **– My Development Mantra**  
+
+> *"Every millisecond matters - performance optimization is where art meets engineering."*  
+
+> *"Complex problems deserve simple solutions. Simple solutions demand elegant code."*  
+
+> *"The computer is always right... but a well-cached query is even righter."*  
+
+> *"Debugging is like being a detective where you're also the murderer."*  
+> **– Anonymous**  
+
+> *"Great software isn't built, it's grown - one tested feature at a time."*  
+
+> *"In code we trust, but Redis helps."*  
 
 📫 **Let's Connect!**  
 [![Email](https://img.shields.io/badge/azhagu.swe@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:azhagu.swe@gmail.com)
