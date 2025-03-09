@@ -1,88 +1,80 @@
-# 👋 Hi there, I'm **Azhagu.SWE**  
+# 👋 Hi there, I'm Alagappan P | **Full-Stack Java Developer**
 
-### *"Crafting tech solutions with innovation, precision, and creativity."* 🚀  
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-%23F4B400?style=for-the-badge&logo=google-chrome&logoColor=white)](https://azhagu-swe.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azhagu-swe)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-leetcode-link)
 
----
+## 🛠️ Tech Stack Arsenal
 
-![Header](https://your-banner-link-here.com/banner.png)
+### **Core Technologies**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### **Frontend Expertise**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-## 👨‍💻 About Me  
-
-- 💻 **Full-Stack Java Developer** with a passion for building scalable and efficient software solutions.  
-- 🌟 Enthusiast in **UI/UX design**, focusing on creating attractive, intuitive user experiences.  
-- 🚀 Innovator exploring **proximity-based algorithms** and futuristic e-commerce solutions.  
-- 🎬 **Sci-Fi Storyteller**, blending technology with creativity in my projects and narratives.  
-- 🌟 **Motto:** *"Code, Create, Inspire."*  
-
----
-
-## 🛠️ Tech Stack  
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)  
-![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)  
+### **Performance Tools**
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects  
+## 🚀 Featured Projects
 
-### 🚀 **[E-Commerce Platform](https://github.com/azhagu-swe/e-commerce)**  
-A robust, scalable online shopping solution with advanced features like payment integration, user authentication, and analytics.  
+### 📍 **Geohash Proximity Engine** [![GitHub](https://img.shields.io/badge/Source_Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/azhagu-swe/proximityhash-javas)
+**Java | Geohash Algorithm | GeoRaptor**  
+✅ 10-meter precision geohash generation  
+✅ 20% faster than Python implementation  
+✅ Deployed in production DSP targeting 1M+ devices
 
-- 🔹 Built with **Next.js** and **Spring Boot** for a full-stack experience.  
-- 🔹 Optimized for performance and seamless user experience.  
-
----
-
-### 📍 **[Proximity Hash Algorithm](https://github.com/azhagu-swe/proximity-hash)**  
-An innovative project exploring geolocation-based data hashing for proximity searches.  
-
-- 🔹 **Optimized for speed and accuracy** in large-scale applications.  
-- 🔹 Applications include location-based services, delivery optimization, and more.  
+### 💻 **Next.js Portfolio** [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF7139?style=flat-square&logo=vercel&logoColor=white)](https://azhagu-swe.github.io)
+**Next.js 14 | TypeScript | MUI**  
+⚡ 95+ Lighthouse Performance Score  
+🎯 25% increase in user engagement  
+🌈 Dynamic project filtering system
 
 ---
 
-### 🌐 **[Portfolio Website](https://github.com/azhagu-swe/portfolio)**  
-A stunning, interactive portfolio to showcase my skills, projects, and creativity.  
+## 💡 Experience Highlights
 
-- 🔹 Designed with **Next.js**, **TypeScript**, and **Material-UI**.  
-- 🔹 Includes animations, SEO optimization, and responsive design.  
+**🚀 Junior Software Developer @ Memob Plus** *(Apr 2023 - Present)*  
+- Reduced API latency by 40% through Redis caching strategies  
+- Modernized legacy DSP system with Next.js frontend  
+- Boosted PostgreSQL performance by 30% via query optimization  
 
----
-
-## 💎 Achievements  
-
-- 📈 Built a high-performance proximity hash algorithm for geolocation data.  
-- 🔄 Seamlessly integrated modern UI/UX principles in portfolio projects.  
-- 🏆 Recognized for **innovative approaches to problem-solving** in e-commerce projects.  
+**🔧 Software Developer Intern @ Memob Plus** *(Aug 2022 - Feb 2023)*  
+- Developed Java proximity hash algorithm improving geo-targeting accuracy by 15%  
+- Implemented Mapbox integration for spatial visualization  
 
 ---
 
-## 📊 GitHub Stats  
+## 🎓 Education & Achievements
 
-![Azhagu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhagu-swe&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azhagu-swe&layout=compact&theme=radical)  
+**📚 M.Sc Computer Science**  
+*H.H. The Rajah's College | 74% | 2020*
 
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/azhagu379)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/azhagu-swe)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/azhagu-swe)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23F4B400.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://azhagu-swe.github.io/portfolio/)  
+**🏆 Technical Accolades**  
+- 2nd Prize: National College Debugging Competition  
+- Full Stack Java Certification (Simplilearn)  
 
 ---
 
-## 💯 Quote  
+## 📊 GitHub Stats
 
-*"Coding is not just solving problems; it's about shaping the future."*  
+[![Alagappan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhagu-swe&show_icons=true&theme=radical)](https://github.com/azhagu-swe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhagu-swe&layout=compact&theme=radical)](https://github.com/azhagu-swe)
 
 ---
+
+## 🌟 **Development Philosophy**
+> *"Clean code is not just efficient - it's the bridge between complex problems and elegant solutions."*
+
+---
+
+📫 **Let's Connect!**  
+[![Email](https://img.shields.io/badge/azhagu.swe@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:azhagu.swe@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/+91_7502005724-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917502005724)
