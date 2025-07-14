@@ -78,13 +78,18 @@ I'm a dedicated Full-Stack Java Developer with nearly 3 years of experience buil
 
 ## 🎓 Education & Achievements
 
-**📚 M.Sc Computer Science**  
-*H.H. The Rajah's College | 74% | 2020*
+**📜 M.Sc. in Computer Science** – H.H. The Rajah's College *(2020)* – 74%
+**📜 B.Sc. in Computer Science** – H.H. The Rajah's College *(2018)* – 71%
 
-**🏆 Technical Accolades**  
-- **2nd Prize**: National College Debugging Competition  
-- **Certified Full-Stack Java Developer**: Simplilearn  
-- **Active LeetCode Contributor**: Solving DSA challenges regularly  
+**🏆 Achievements**
+
+* ⭐ 2nd Prize - National College Debugging Competition
+
+**🎓 Certifications**
+
+* Full Stack Java Development - Simplilearn
+* Java Certification - Simplilearn
+* ChatGPT Advanced & Prompt Engineering - Simplilearn
 
 ---
 
